@@ -1,4 +1,4 @@
-### Garota tentando aprender programação
+### Tentando aprender programação
   </br>
 
   <a href="https://www.linkedin.com/in/za-rer-maria-nazar%C3%A9-64868a308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
