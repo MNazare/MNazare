@@ -6,7 +6,9 @@
   
   <br/>
 
-  <p align='left'>No segundo ano de Desenvolvimento de Sistemas</p>
+  <p align='left'>Cursando Desenvolvimento de Sistemas <br>
+    Estudando Front-End
+  </p>
   </br>
   <hr>
 
