@@ -7,7 +7,7 @@
   <br/>
   
   <p align='left'>Cursando Desenvolvimento de Sistemas <br>
-    Estudando JavaScript, Design e outras coisas
+    Estudando JavaScript, React e PHP
   </p>
   </br>
   <hr>
