@@ -7,7 +7,7 @@
   <br/>
 
   <p align='left'>Cursando Desenvolvimento de Sistemas <br>
-    Estudando Front-End
+    Estudando JavaScript, Design e outras coisas
   </p>
   </br>
   <hr>
@@ -17,3 +17,5 @@
   
   <a href="https://html.com/"><img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
