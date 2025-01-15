@@ -1,6 +1,6 @@
 # 💻 Olá! Seja bem-vindo(a) ao meu perfil! 🚀
 
-Sou apaixonada por tecnologia e estou trilhando minha jornada no mundo do desenvolvimento e análise de dados. Sempre em busca de aprender mais e desenvolver soluções criativas, meu foco atual é em **Python** e **bancos de dados**, mas também tenho experiência com **front-end** e projetos back-end. 🌟
+Sou apaixonada por tecnologia e estou trilhando minha jornada no mundo do desenvolvimento e análise de dados. Sempre em busca de aprender mais e desenvolver soluções criativas🌟
 
 ---
 
