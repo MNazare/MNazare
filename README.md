@@ -1,47 +1,48 @@
-# 💻 Olá! Seja bem-vindo(a) ao meu perfil! 🚀
-
-Sou apaixonada por tecnologia e estou trilhando minha jornada no mundo do desenvolvimento e análise de dados. Sempre em busca de aprender mais e desenvolver soluções criativas🌟
+Entendi! Aqui está o README ajustado de acordo com suas preferências:  
 
 ---
 
-## 🛠️ Habilidades
+# 💻 Olá! Seja bem-vindo(a) ao meu perfil! 🚀  
 
-- **Linguagens**: Python, JavaScript, Java (básico), TypeScript (básico)
-- **Front-End**: HTML, CSS, JavaScript (experiência prática com design de interfaces)
-- **Banco de Dados**: MySQL (consultas, modelagem e integração com aplicações)
-- **Back-End**: Conhecimento básico em Node.js e Express.js
-- **Ferramentas**: Git, npm, VS Code
+Sou apaixonada por tecnologia e estou explorando o mundo do desenvolvimento, com interesse especial em **banco de dados**, **Python** e **back-end**. Ainda estou decidindo entre seguir carreira como **Analista de Dados** ou **Desenvolvedora Back-End**, mas continuo expandindo meus conhecimentos para encontrar meu caminho ideal. 🌟  
 
 ---
 
-## 🌱 O que estou estudando
+## 🛠️ Habilidades  
 
-- **Python**: Aplicações voltadas para análise de dados e automação.
-- **Bancos de Dados**: Integração e modelagem com MySQL.
-- Explorando carreiras como **Analista de Dados** e **Desenvolvedora de Banco de Dados**.
-
----
-
-## 🔄 Transição de Estudos
-
-Atualmente estou em transição de estudos, migrando meu foco para áreas que unem **programação** e **banco de dados**, como **análise de dados** e **desenvolvimento de banco de dados**. 
+- **Linguagens**: Python, JavaScript (básico), Dart (em aprendizado)  
+- **Front-End**: HTML, CSS (experiência prática com design de interfaces)  
+- **Banco de Dados**: MySQL (consultas, modelagem e integração com aplicações)  
+- **Back-End**: Conhecimento básico em desenvolvimento de sistemas  
+- **Desenvolvimento Mobile**: Aprendendo Flutter e Dart, utilizando **Android Studio**  
+- **Ferramentas**: Git, VS Code, Android Studio  
 
 ---
 
-## 📂 Projetos
+## 🌱 O que estou estudando  
 
-- **Sistema para Biblioteca (Java)**: Gerenciamento de livros com funcionalidades como registro, disponibilidade e empréstimos.
-- **Portfólio para Designer de Interiores**: Desenvolvimento front-end com foco em usabilidade e design, onde atuei como líder de equipe.
-- **Projetos Simples**: Desenvolvendo projetos básicos, como uma calculadora e outras aplicações de funcionalidades básicas, para consolidar meu aprendizado.
-
----
-
-## 🤝 Vamos nos conectar?
-
-- 📧 E-mail: mnazare0919@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/nazar%C3%A9-alves-64868a308/
-- 🌟 Confira meus repositórios aqui no GitHub e fique à vontade para contribuir ou trocar ideias comigo!
+- **Python**: Aplicações voltadas para análise de dados e automação.  
+- **Bancos de Dados**: Modelagem e integração com MySQL.  
+- **Back-End**: Explorando desenvolvimento de sistemas para fortalecer minha base.  
+- **Desenvolvimento Mobile**: Estou explorando a área para expandir meus conhecimentos em desenvolvimento.  
+- Buscando entender melhor se meu futuro será como **Analista de Dados** ou **Desenvolvedora Back-End**.  
 
 ---
 
-Obrigado(a) por visitar meu perfil! 🚀
+## 📂 Projetos  
+
+- **Sistema para Biblioteca (Java)**: Gerenciamento de livros com funcionalidades como registro, disponibilidade e empréstimos.  
+- **Portfólio para Designer de Interiores**: Desenvolvimento front-end com foco em usabilidade e design.  
+- **Projetos Simples**: Aplicações básicas, como calculadoras e outros sistemas para consolidar aprendizado.  
+
+---
+
+## 🤝 Vamos nos conectar?  
+
+- 📧 E-mail: mnazare0919@gmail.com  
+- 🌐 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/nazar%C3%A9-alves-64868a308/)  
+- 🚀 Confira meus repositórios aqui no GitHub e sinta-se à vontade para trocar ideias comigo!  
+
+---
+
+Obrigada por visitar meu perfil! 🚀
